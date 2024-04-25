@@ -18,7 +18,7 @@ h1 {
     font-size: 37px;
     color: white;
     padding-left: 37px;
-
+    margin: 0% 14%;
 
 }
 
@@ -32,8 +32,6 @@ h1 {
     color: white;
 }
 
-
-
 .nav-link {
     color: white;
     font-family: cabin;
@@ -42,7 +40,7 @@ h1 {
 }
 
 .principal-img {
-    width: 482px;
+    /* width: 482px; */
     padding-left: 37px;
     padding-right: 37px;
 
@@ -52,11 +50,6 @@ h1 {
     width: 648;
     font-family: cabin;
     font-weight: 700;
-}
-
-
-.col-3 {
-    width: 233px;
 }
 
 .t-lr {
@@ -70,13 +63,9 @@ h1 {
     font-weight: 300;
 }
 
-
-
-
 #ingre {
     list-style: none;
     font-size: 20px;
-
 }
 
 #preparacion {
@@ -107,7 +96,6 @@ h1 {
     font-weight: 300;
     color: white;
 }
-
 
 footer {
     height: 70px;
